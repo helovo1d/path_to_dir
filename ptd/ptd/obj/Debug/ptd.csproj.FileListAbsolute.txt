@@ -1,0 +1,10 @@
+D:\programming\path_to_dir\ptd\ptd\bin\Debug\ptd.exe.config
+D:\programming\path_to_dir\ptd\ptd\bin\Debug\ptd.exe
+D:\programming\path_to_dir\ptd\ptd\bin\Debug\ptd.pdb
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.csprojAssemblyReference.cache
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.Form1.resources
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.Properties.Resources.resources
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.csproj.GenerateResource.cache
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.csproj.CoreCompileInputs.cache
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.exe
+D:\programming\path_to_dir\ptd\ptd\obj\Debug\ptd.pdb
