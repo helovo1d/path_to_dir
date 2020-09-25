@@ -3,7 +3,7 @@
 
 ##Windows Forms dontnet program that creates directories from path string.
 
-![alt text](https://github.com/helovo1d/path_to_dir/blob/master/2020-09-25%2021_49_30-Registry%20Editor.png)
+![alt text](https://github.com/helovo1d/path_to_dir/blob/master/2020-09-25%2022_07_22-playlist%2022.09.2020.png)
 
 the executable path is **path_to_dir/ptd/ptd/bin/Debug/ptd.exe**
 
